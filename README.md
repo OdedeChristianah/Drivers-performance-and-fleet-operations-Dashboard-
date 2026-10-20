@@ -1,0 +1,2 @@
+# Drivers-performance-and-fleet-operations-Dashboard-
+The Drivers Performance and Fleet Operations Dashboard is a data analytics capstone project developed using Microsoft Power BI. The project focuses on analyzing fleet operations and driver performa.  The dashboard transforms logistics data into interactive visualizations and key performance indicators (KPIs) to support data-driven decision-making.
